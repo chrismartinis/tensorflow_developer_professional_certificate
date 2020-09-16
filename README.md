@@ -41,4 +41,4 @@ In this fourth course, you will learn how to build time series models in TensorF
 __Note: to view the .webarchive files, please download them to your computer.__
 
 ## License
-__[MIT](https://github.com/chrismartinis/deep_learning_specialization/blob/master/LICENSE)__
+__[MIT](https://github.com/chrismartinis/tensorflow_developer_professional_certificate/blob/master/LICENSE)__
